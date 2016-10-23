@@ -13,4 +13,5 @@ Work through these...
 7.  Tune the live race section and investigate dev on that; can we make it a private section / anonymous browsing
 8.  Float menu left
 9.  post thumbnails
+10. remove category from above post title on front page
 
